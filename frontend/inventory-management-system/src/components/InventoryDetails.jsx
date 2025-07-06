@@ -29,7 +29,7 @@ function InventoryDetails({ item, onEdit, onDelete }) {
         </div>
         <div className="detail-row">
           <span className="detail-label">Price:</span>
-          <span className="detail-value">${parseFloat(item.price).toFixed(2)}</span>
+          <span className="detail-value">INR {parseFloat(item.price).toFixed(2)}</span>
         </div>
         <div className="detail-row">
           <span className="detail-label">Category:</span>
