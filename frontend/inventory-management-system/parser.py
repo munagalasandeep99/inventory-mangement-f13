@@ -1,9 +1,9 @@
 import os
 
 # Specify the directory path here
-directory = "C:\\Users\\SAMPATH REDDY\\OneDrive\\Desktop\\serverless-inventory-management-system\\frontend\\inventory-management-system"  # Replace with your directory path
+directory = "C:\\inventory-mangement-f13\\backend"  # Replace with your directory path
 directory_name = os.path.basename(os.path.normpath(directory))
-output_file_name = "output.txt"
+output_file_name = "output2.txt"
 
 def print_directory_structure(root_dir, prefix="", output_list=None):
     if output_list is None:
