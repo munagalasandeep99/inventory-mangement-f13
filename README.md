@@ -35,7 +35,7 @@ Terraform enables infrastructure as code, making deployment consistent and repea
 First, clone the project repository containing the Terraform configuration:
 
 ```bash
-git clone https://github.com/OjoOluwagbenga700/serverless-inventory-management-system.git](https://github.com/munagalasandeep99/inventory-mangement-f13.git
+git clone https://github.com/munagalasandeep99/inventory-mangement-f13.git
 cd backend/terraform
 
 ```
